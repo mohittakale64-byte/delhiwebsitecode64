@@ -1,4 +1,4 @@
-import CoursePage, { CourseData } from "./components/CoursePage";
+import CoursePage, { CourseData } from "@/components/CoursePage";
 
 const courseData: CourseData = {
   slug: "programming",
